@@ -1,0 +1,10 @@
+aiohttp>=3.8.0
+asyncio>=3.4.3
+PyYAML>=6.0
+python-dotenv>=1.0.0
+rich>=10.0.0
+telethon>=1.28.5
+loguru>=0.7.0
+colorama>=0.4.6
+python-magic>=0.4.27
+emoji>=2.8.0 
